@@ -1,6 +1,9 @@
 # Environment variables and secrets
 .env
-.ipynb
+.env.local
+.env.*.local
+*.ipynb
+.ipynb_checkpoints/
 *.pem
 
 # Python

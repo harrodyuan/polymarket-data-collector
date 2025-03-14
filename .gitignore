@@ -1,5 +1,6 @@
 # Environment variables and secrets
 .env
+.ipynb
 *.pem
 
 # Python

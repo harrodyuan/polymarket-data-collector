@@ -1,4 +1,6 @@
 # Environment variables and secrets
+historical_data/
+
 .env
 .env.local
 .env.*.local
@@ -27,8 +29,6 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-
-historical_data/
 
 # IDE specific files
 .idea/

@@ -28,7 +28,7 @@ var/
 .installed.cfg
 *.egg
 
-# historical_data/
+historical_data/
 
 # IDE specific files
 .idea/
